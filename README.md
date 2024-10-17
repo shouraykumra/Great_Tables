@@ -2,6 +2,12 @@ Great Tables with Polars
 
 Great Tables is a powerful tool that works with the Polars programming language to enhance the presentation of data. It provides an intuitive and visually engaging way to display and analyze tabular data by incorporating elements like headers, formatting, bar charts, and even heatmaps inside the tables. This README outlines the key features and components of Great Tables, along with a comparison of raw DataFrames and their enhanced table counterparts.
 
+Claims.py
+![Screenshot 2024-10-16 at 11 09 57 PM](https://github.com/user-attachments/assets/0292612d-906b-4cde-bde3-6ffd47c03dd8)
+
+Great_tables.py
+
+
 Features
 
 1. Comparison of the Tables
