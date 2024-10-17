@@ -5,7 +5,8 @@ Great Tables is a powerful tool that works with the Polars programming language 
 Claims.py
 ![Screenshot 2024-10-16 at 11 09 57 PM](https://github.com/user-attachments/assets/0292612d-906b-4cde-bde3-6ffd47c03dd8)
 
-Great_tables.py
+Table Heatmap.py
+![Screenshot 2024-10-16 at 11 46 35 PM](https://github.com/user-attachments/assets/dff58b0e-0931-4860-bdc5-87df126b24cf)
 
 
 Features
